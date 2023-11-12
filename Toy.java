@@ -45,7 +45,7 @@ public class Toy {
 
     @Override
     public String toString() {
-        return "Toy " + name + ", id=" + id + ", weight=" + weight + "]";
+        return "Toy " + name + ", id=" + id + ", weight=" + weight;
     }
     
 }
